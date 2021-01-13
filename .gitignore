@@ -1,0 +1,15 @@
+node_modules
+.vs_code
+.vscode
+.DS_Store
+**.lock
+temp
+tmp
+Desktop.ini
+Thumbs.db
+*.bak
+*.log
+*.tmp
+.idea
+.svn
+.history
